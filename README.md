@@ -1,7 +1,7 @@
 # IS2101-Simulate-Interrupt-Handling-for-I-O-Devices-in-Java-C--NNM24IS204-
-# 🧠 Interrupt Handling Simulation (Multithreaded C Program)
+# Interrupt Handling Simulation (Multithreaded C Program)
 
-## 📋 Overview
+## Overview
 This project simulates **hardware interrupt handling** in a simple multitasking environment using **POSIX threads (pthreads)**.  
 It demonstrates how different devices (keyboard, mouse, and printer) generate interrupts, and how these interrupts can be **masked** (disabled) or **unmasked** (enabled) dynamically at runtime.
 
@@ -10,7 +10,7 @@ The user can control which device interrupts are active through terminal command
 
 ---
 
-## ⚙️ Features
+## Features
 - Simulates interrupts from **Keyboard**, **Mouse**, and **Printer**
 - Allows **masking/unmasking** of individual device interrupts
 - Demonstrates **mutual exclusion (mutex)** for interrupt handling
@@ -31,7 +31,7 @@ The user can control which device interrupts are active through terminal command
 
 ---
 
-## 🧠 Priority Levels
+## Priority Levels
 | Device | Priority |
 |---------|-----------|
 | Keyboard | 1 (highest) |
@@ -40,7 +40,7 @@ The user can control which device interrupts are active through terminal command
 
 ---
 
-## 🧮 Commands
+## Commands
 
 Run the program and use the following commands in the terminal:
 
