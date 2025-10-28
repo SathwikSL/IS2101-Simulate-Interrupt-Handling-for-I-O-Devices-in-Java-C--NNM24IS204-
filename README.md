@@ -38,8 +38,6 @@ The user can control which device interrupts are active through terminal command
 | Mouse | 2 |
 | Printer | 3 (lowest) |
 
-> ⚠️ Note: Priorities are defined for conceptual understanding — actual scheduling is handled by the OS thread scheduler.
-
 ---
 
 ## 🧮 Commands
@@ -53,4 +51,4 @@ Run the program and use the following commands in the terminal:
 | `mask printer` | Disables printer interrupts |
 | `exit` | Terminates the program |
 
-Example interaction:
+---
