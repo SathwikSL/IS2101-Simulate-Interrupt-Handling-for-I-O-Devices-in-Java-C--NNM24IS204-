@@ -19,7 +19,7 @@ The user can control which device interrupts are active through terminal command
 
 ---
 
-## 🧩 Components
+## Components
 
 | Thread | Function | Description |
 |---------|-----------|-------------|
